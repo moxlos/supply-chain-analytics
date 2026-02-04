@@ -1,0 +1,13 @@
+# Core Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optimization
+PuLP>=2.7.0
+
+# Visualization & Dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Formatting
+babel>=2.13.0
