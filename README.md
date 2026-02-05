@@ -18,6 +18,7 @@ An interactive web application for supply chain network optimization using linea
 
 ## Screenshots
 
+<img width="1847" height="890" alt="Screenshot from 2026-03" src="https://github.com/user-attachments/assets/94a6ce6c-63af-4720-9e4a-43cab367b0b6" />
 <img width="1847" height="890" alt="Screenshot from 2026-01" src="https://github.com/user-attachments/assets/2ee7e834-9944-40ae-824a-2af129c4c96a" />
 <img width="1847" height="890" alt="02" src="https://github.com/user-attachments/assets/dcfbdca0-dd43-4ac9-8ddd-071f3d0a4058" />
 
